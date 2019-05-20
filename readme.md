@@ -17,7 +17,7 @@ To get the application up and running, follow these steps below:
 ## Run commands
 3. <code>php artisan migrate</code> to setup database
 
-4. <code>php artisan db:seed</code> for Faker livrary to create dummy data
+4. <code>php artisan db:seed</code> for Faker library to create dummy data
 
 5. <code>npm install</code> - VueJS
 

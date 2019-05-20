@@ -1,4 +1,4 @@
-#Welcome to MediumApp
+# Welcome to MediumApp
 
 This is a clone of medium.com with the following features:
 
@@ -7,7 +7,7 @@ This is a clone of medium.com with the following features:
 - Tag Articles
 - Frontend to list and display article.
 
-#Getting Started
+# Getting Started
 To get the application up and running, follow these steps below:
 
 1. Run the command <code>composer install</code> to install vendor package
